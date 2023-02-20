@@ -1,0 +1,31 @@
+History Of Java:
+* The History of java is very interesting.
+* It all started with a small team of sun engineers of sun  microsystems.
+* The team is known as green team.
+* They are the people who initiated this project of creating a language for digital devices
+* But however it was an too advanced technology for digital cable television at that time
+* But it is best suited for internet programming. 
+* For creating web applications, desktop applications and much more.
+* First, the language is decided to be named as green talk by james gosling and the file extension was .gt.
+* After that, it was called oak. As oak is a symbol of strength and choosen as a national tree of many countries like the U.S.A, France, Germany, Romania, etc.
+* In 1995 , oak is renamed as java because it was already a trademark by oak technologies.
+* So, it was renamed as java and released in the year of 1995.
+* James Gosling, the founder of java and  is said to be the "Father Of Java".
+
+Why named as java?
+* The team is gathered to choose a new name.
+* The suggested words were "dynamic", "revolutionary", "silk", "jolt", "DNA", etc.
+* They wanted something that reflected the essence of the technology.
+* They wanted the name to be cool, unique, easy to spell and fun to say.
+* According to james gosling, "Java is one of the top choices along with silk.
+* Since, java is unique most of the team members prefered "Java" over other names.
+* Java is an island in indonesia where the first coffee is produced and the coffee is called a java coffee.
+* James gosling chose the name while having a cup of coffee nearby his office.
+
+Conclusion:
+* So, java is initially developed by james gosling at sun microsystems and released in the year of 1995.
+* Sun microsystems is now the subsidiary of oracle corporation
+* First verison of java - JDK Alpha and Beta (1995)
+
+
+
